@@ -1,3 +1,3 @@
-def authenticate(username,password):
+def authenticate(email,password):
 	#authentication
 	return user
